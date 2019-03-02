@@ -1,5 +1,6 @@
-def using_include["hello", "goodbye"]
-  using_include.include?("hello")
+def using_include(array, element)
+  using_include = ["hello", "world"]
+  using_include.include?()
 end
 
 def using_sort(array)
