@@ -1,4 +1,4 @@
-def using_include("hello", "goodbye")
+def using_include["hello", "goodbye"]
   using_include.include?("hello")
 end
 
